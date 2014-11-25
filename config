@@ -1,0 +1,35 @@
+[global_config]
+  enabled_plugins = APTURLHandler, LaunchpadBugURLHandler
+  title_inactive_fg_color = "#e5c200"
+  tab_position = hidden
+  borderless = True
+[keybindings]
+[profiles]
+  [[default]]
+    use_system_font = False
+    background_darkness = 0.83
+    background_type = transparent
+    scrollbar_position = hidden
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    font = DejaVu Sans Mono 9
+    scrollback_infinite = True
+  [[molokai]]
+    scrollbar_position = hidden
+    palette = "#2e3436:#7a0137:#498702:#b05e01:#3465a4:#75507b:#4194b0:#d3d7cf:#555753:#e60267:#6dca04:#e17802:#1d71ca:#af5fff:#5cd1f8:#ffffff"
+    use_system_font = False
+    cursor_color = "#c20257"
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    font = DejaVu Sans Mono 9
+    background_color = "#121212"
+    scrollback_infinite = True
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+    [[[window0]]]
+      type = Window
+      parent = "" 
+[plugins]
