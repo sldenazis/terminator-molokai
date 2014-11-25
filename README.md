@@ -11,7 +11,7 @@ Simply replace your ~/config/terminator/config with my config. Then, select in y
 
 If you want, you can delete all the [[default]] section and rename the [[molokai]] as [[default]].
 
-This theme uses the font 'Deja Vu Sans Mono 9', change this setting if you use another font and size (directly in the config file, or in the terminator settings).
+This theme uses the font 'Deja Vu Sans Mono 9', change this setting if you use another font and size (directly in the config file, or from the terminator settings).
 
 The palette is:
 
