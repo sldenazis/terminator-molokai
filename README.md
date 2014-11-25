@@ -3,4 +3,6 @@ terminator-molokai
 
 Molokai theme for terminator
 
-Screenshots in screenshots/.
+## Screenshots
+
+![img](screenshots/screenshot00.png)
