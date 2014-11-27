@@ -15,7 +15,7 @@ This theme uses the font 'Deja Vu Sans Mono 9', change this setting if you use a
 
 The palette is:
 
-> palette = "#2e3436:#7a0137:#498702:#b05e01:#3465a4:#75507b:#4194b0:#d3d7cf:#555753:#e60267:#6dca04:#e17802:#1d71ca:#af5fff:#5cd1f8:#ffffff"
+> palette = "#181915:#7a0137:#498702:#c5bb63:#3465a4:#75507b:#4194b0:#d3d7cf:#272822:#e00265:#6dca04:#e6db74:#1d71ca:#af5fff:#5cd1f8:#ffffff"
 
 ## Screenshots
 
